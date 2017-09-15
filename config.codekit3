@@ -1014,6 +1014,66 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_assets\/images\/marquees\/HP-2080x1788-dryice.jpg": {
+		"ft": 16384,
+		"iS": 104786,
+		"oA": 0,
+		"oAP": "\/_assets\/images\/marquees\/HP-2080x1788-dryice.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/_assets\/images\/marquees\/HP-2080x1788-ink.jpg": {
+		"ft": 16384,
+		"iS": 87204,
+		"oA": 0,
+		"oAP": "\/_assets\/images\/marquees\/HP-2080x1788-ink.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/_assets\/images\/marquees\/HP-2080x1788-milkink.jpg": {
+		"ft": 16384,
+		"iS": 106740,
+		"oA": 0,
+		"oAP": "\/_assets\/images\/marquees\/HP-2080x1788-milkink.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/_assets\/images\/marquees\/HP-2080x1788-sodium.jpg": {
+		"ft": 16384,
+		"iS": 110819,
+		"oA": 0,
+		"oAP": "\/_assets\/images\/marquees\/HP-2080x1788-sodium.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/_assets\/images\/marquees\/HP-2080x1788-sound.jpg": {
+		"ft": 16384,
+		"iS": 358942,
+		"oA": 0,
+		"oAP": "\/_assets\/images\/marquees\/HP-2080x1788-sound.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/_assets\/images\/marquees\/HP-2080x1788-steelwool.jpg": {
+		"ft": 16384,
+		"iS": 307504,
+		"oA": 0,
+		"oAP": "\/_assets\/images\/marquees\/HP-2080x1788-steelwool.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"\/_assets\/images\/marquees\/mailing-list.jpg": {
 		"ft": 16384,
 		"iS": 157934,
@@ -1209,6 +1269,16 @@
 		"opt": 0,
 		"oT": 1,
 		"q": 100
+		},
+	"\/_assets\/min\/app.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/_assets\/min\/min\/app-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
 		},
 	"\/_downloads.html": {
 		"ft": 8192,
