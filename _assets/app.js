@@ -7990,10 +7990,6 @@ function() {
                 if ("object" == typeof c || "undefined" == typeof c ? a[f].slick = new b(a[f], c) : g = a[f].slick[c].apply(a[f].slick, d), "undefined" != typeof g) return g;
             return a
         }
-    }), $(function() {
-        CoverallCrew.blogPosts = new CoverallCrew.BlogEntries, CoverallCrew.blogPosts.url = "/adobemax.json", $.when(CoverallCrew.blogPosts.fetch()).then(function() {
-            window.location.pathname.split("/").splice(0, 4).join("/"), CoverallCrew.blogApp = new window.CoverallCrew.BlogRouter, Backbone.history.start()
-        })
     }),
     function() {
         var extend = function(child, parent) {
