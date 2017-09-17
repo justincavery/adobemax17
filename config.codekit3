@@ -522,6 +522,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_assets\/images\/content\/homepage-tracks-bg.png": {
+		"ft": 32768,
+		"iS": 47152,
+		"oA": 0,
+		"oAP": "\/_assets\/images\/content\/homepage-tracks-bg.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/_assets\/images\/content\/instagram-profile.jpg": {
 		"ft": 16384,
 		"iS": 4249,
@@ -563,6 +574,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/_assets\/images\/content\/mailing-list-bg.png": {
+		"ft": 32768,
+		"iS": 9816,
+		"oA": 0,
+		"oAP": "\/_assets\/images\/content\/mailing-list-bg.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/_assets\/images\/content\/max-madness.jpg": {
 		"ft": 16384,
 		"iS": 91009,
@@ -578,6 +600,16 @@
 		"iS": 66401,
 		"oA": 0,
 		"oAP": "\/_assets\/images\/content\/preconf-bundle1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/_assets\/images\/content\/top10.jpg": {
+		"ft": 16384,
+		"iS": 107103,
+		"oA": 0,
+		"oAP": "\/_assets\/images\/content\/top10.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -805,7 +837,7 @@
 		"oAP": "\/_assets\/images\/homepage-speakers\/Aaron-Draplin.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_assets\/images\/homepage-speakers\/Amy-Balliet.jpg": {
@@ -815,7 +847,7 @@
 		"oAP": "\/_assets\/images\/homepage-speakers\/Amy-Balliet.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_assets\/images\/homepage-speakers\/Annie-Griffiths.jpg": {
@@ -825,7 +857,7 @@
 		"oAP": "\/_assets\/images\/homepage-speakers\/Annie-Griffiths.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_assets\/images\/homepage-speakers\/Charles-Anderson.jpg": {
@@ -835,7 +867,7 @@
 		"oAP": "\/_assets\/images\/homepage-speakers\/Charles-Anderson.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_assets\/images\/homepage-speakers\/Christina-Steele.jpg": {
@@ -845,7 +877,7 @@
 		"oAP": "\/_assets\/images\/homepage-speakers\/Christina-Steele.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_assets\/images\/homepage-speakers\/Dan-Stiles.jpg": {
@@ -855,7 +887,7 @@
 		"oAP": "\/_assets\/images\/homepage-speakers\/Dan-Stiles.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_assets\/images\/homepage-speakers\/Emily-Pilloton.jpg": {
@@ -865,7 +897,7 @@
 		"oAP": "\/_assets\/images\/homepage-speakers\/Emily-Pilloton.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_assets\/images\/homepage-speakers\/James-Victore.jpg": {
@@ -875,7 +907,7 @@
 		"oAP": "\/_assets\/images\/homepage-speakers\/James-Victore.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_assets\/images\/homepage-speakers\/John-Adler.jpg": {
@@ -885,7 +917,7 @@
 		"oAP": "\/_assets\/images\/homepage-speakers\/John-Adler.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_assets\/images\/homepage-speakers\/Jon-Favreau.jpg": {
@@ -895,7 +927,7 @@
 		"oAP": "\/_assets\/images\/homepage-speakers\/Jon-Favreau.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_assets\/images\/homepage-speakers\/Mark-Ronson.jpg": {
@@ -905,7 +937,7 @@
 		"oAP": "\/_assets\/images\/homepage-speakers\/Mark-Ronson.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_assets\/images\/homepage-speakers\/Pete-Souza.jpg": {
@@ -915,7 +947,7 @@
 		"oAP": "\/_assets\/images\/homepage-speakers\/Pete-Souza.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_assets\/images\/homepage-speakers\/Stephen-Gates.jpg": {
@@ -925,7 +957,7 @@
 		"oAP": "\/_assets\/images\/homepage-speakers\/Stephen-Gates.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_assets\/images\/homepage-speakers\/Tina-Roth.jpg": {
@@ -935,7 +967,7 @@
 		"oAP": "\/_assets\/images\/homepage-speakers\/Tina-Roth.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_assets\/images\/marquees\/2017MAX-marquees-1438x350-contact.jpg": {
@@ -1264,6 +1296,16 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/_assets\/min\/app-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/_assets\/min\/min\/app-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
 	"\/_assets\/min\/app.js": {
 		"ft": 64,
 		"ma": 0,
@@ -1284,6 +1326,14 @@
 		"ft": 524288,
 		"oA": 1,
 		"oAP": "\/adobemax-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/adobemax.json.old.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/adobemax.json.old-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
