@@ -8353,3 +8353,15 @@ window.JST || (window.JST = {}), window.JST.archive_item = function(__obj) {
     }), $(function() {
         "" === window.location.hash && ($("#panel-graphicDesignIllustration-label").parent().click(), $(".speaker.false").find(".accordion-content").remove())
     });
+
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', function() {
+        navigator.serviceWorker.register('/serviceworker.js').then(function(registration) {
+          // Registration was successful
+          console.log('ServiceWorker registration successful with scope: ', registration.scope);
+        }, function(err) {
+          // registration failed :(
+          console.log('ServiceWorker registration failed: ', err);
+        });
+      });
+    }

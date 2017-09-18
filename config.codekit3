@@ -9,6 +9,12 @@
 	],
 "creatorBuild": "25900",
 "files": {
+	"\/.htaccess": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.htaccess",
+		"oF": 0
+		},
 	"\/_assets\/ajax-loader.gif.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -1322,6 +1328,18 @@
 		"oAP": "\/_downloads.html",
 		"oF": 0
 		},
+	"\/adobemax.dev.crt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/adobemax.dev.crt",
+		"oF": 0
+		},
+	"\/adobemax.dev.key": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/adobemax.dev.key",
+		"oF": 0
+		},
 	"\/adobemax.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -1386,16 +1404,63 @@
 		"oAP": "\/favicon.ico",
 		"oF": 0
 		},
-	"\/index.html": {
+	"\/index.php": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/index.html",
+		"oAP": "\/index.php",
 		"oF": 0
+		},
+	"\/launcher-icon-1x.png": {
+		"ft": 32768,
+		"iS": 2670,
+		"oA": 0,
+		"oAP": "\/launcher-icon-1x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/launcher-icon-2x.png": {
+		"ft": 32768,
+		"iS": 4832,
+		"oA": 0,
+		"oAP": "\/launcher-icon-2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/launcher-icon-4x.png": {
+		"ft": 32768,
+		"iS": 9345,
+		"oA": 0,
+		"oAP": "\/launcher-icon-4x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/mailing-list\/index.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/mailing-list\/index.html",
+		"oF": 0
+		},
+	"\/manifest.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/manifest-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/offline.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/offline.html",
 		"oF": 0
 		},
 	"\/registration\/faq\/index.html": {
@@ -1427,6 +1492,16 @@
 		"oA": 2,
 		"oAP": "\/registration\/travel.html",
 		"oF": 0
+		},
+	"\/serviceworker.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/min\/serviceworker-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
 		},
 	"\/sessions\/preconference-training\/index.html": {
 		"ft": 8192,
