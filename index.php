@@ -11,7 +11,6 @@
 // }
 
 header("Link: <_assets/app.css>; rel=preload; as=style", false);
-header("Link: </wp-content/themes/rwd-is/styles.css>; rel=preload; as=style", false);
 header("Link: <_assets/images/global/max-logo.png>; rel=preload; as=image", false);
 echo '<div id="headers-sent"></div>';
 
