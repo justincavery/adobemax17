@@ -88,11 +88,11 @@ echo '<div id="headers-sent"></div>';
 
 
 
-
+<!-- REMOVED THE TYPEKIT FONTS TO ALLOW FOR LOWER OVERALL SIZED PAGE.
     <script type="text/javascript" src="https://use.typekit.net/rba5nhj.js"></script>
 
     <script type="text/javascript">try{Typekit.load({async:true});}catch(e){}</script>
-
+ -->
   </head>
   <body class="page-home  phase-1">
 
