@@ -93,33 +93,6 @@ echo '<div id="headers-sent"></div>';
 
     <script type="text/javascript">try{Typekit.load({async:true});}catch(e){}</script>
 
-    <!--script>
-!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-document,'script','//connect.facebook.net/en_US/fbevents.js');
-
-fbq('init', '1182202598491248');
-fbq('track', 'ViewContent');
-</script>
-<noscript><img height="1" width="1" style="display:none"
-src="https://www.facebook.com/tr?id=FB_PIXEL_ID&amp;ev=PageView&amp;noscript=1"
-/></noscript>
-
-    <script>
-  ! function (e, n, u, a) {
-    e.twq || (a = e.twq = function () {
-      a.exe ? a.exe.apply(a, arguments) : a.queue.push(arguments);
-    }, a.version = '1', a.queue = [], t = n.createElement(u), t.async = !0, t.src = '//static.ads-twitter.com/uwt.js', s = n.getElementsByTagName(u)[0], s.parentNode.insertBefore(t, s))
-  }(window, document, 'script');
-  // Insert Twitter Pixel ID and Standard Event data below
-  twq('init', 'nvgo2');
-  twq('track', 'PageView');
-</script-->
-
-
-
   </head>
   <body class="page-home  phase-1">
 
