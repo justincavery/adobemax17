@@ -217,7 +217,7 @@ echo '<div id="headers-sent"></div>';
 
 
 <div class="marquee-video">
-  <video controls preload="none">
+  <video>
     <source type="video/mp4">
   </video>
 </div>
@@ -605,13 +605,13 @@ echo '<div id="headers-sent"></div>';
       </div>
 
       <div class="reveal text-left video-reveal" id="videoModal" data-reveal>
-        <iframe id="videoiframe" width="960" height="540" src="https://video.tv.adobe.com/v/18057t1/"></iframe>
+        <iframe id="videoiframe" width="960" height="540" data-src="https://video.tv.adobe.com/v/18057t1/"></iframe>
         <div class="reveal-close_icon"><a data-close></a></div>
 
       </div>
 
       <div class="reveal text-left video-reveal" id="videoThreeWordsModal" data-reveal>
-        <iframe id="videoiframe" width="960" height="540" src="https://video.tv.adobe.com/v/18037t1/"></iframe>
+        <iframe id="videoiframe" width="960" height="540" data-src="https://video.tv.adobe.com/v/18037t1/"></iframe>
         <div class="reveal-close_icon"><a data-close></a></div>
 
       </div>

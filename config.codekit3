@@ -21,6 +21,16 @@
 		"oAP": "\/_assets\/ajax-loader.gif.html",
 		"oF": 0
 		},
+	"\/_assets\/app-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/_assets\/app-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/_assets\/app.css": {
 		"aP": 1,
 		"bl": 0,
@@ -435,7 +445,7 @@
 		"oAP": "\/_assets\/images\/content\/gallery12.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_assets\/images\/content\/gallery2.jpg": {
@@ -556,7 +566,7 @@
 		"oAP": "\/_assets\/images\/content\/instagram.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_assets\/images\/content\/light-version.png": {
@@ -621,17 +631,6 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/_assets\/images\/content\/top10.png": {
-		"ft": 32768,
-		"iS": 805651,
-		"oA": 0,
-		"oAP": "\/_assets\/images\/content\/top10.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"\/_assets\/images\/content\/twitter-profile.jpg": {
 		"ft": 16384,
 		"iS": 3736,
@@ -649,7 +648,7 @@
 		"oAP": "\/_assets\/images\/content\/twitter.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_assets\/images\/content\/why-attend-infographic-bg-mobile.jpg": {
@@ -659,7 +658,7 @@
 		"oAP": "\/_assets\/images\/content\/why-attend-infographic-bg-mobile.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/_assets\/images\/content\/why-attend-infographic-bg.jpg": {
