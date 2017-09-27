@@ -217,7 +217,7 @@ echo '<div id="headers-sent"></div>';
 
 
 <div class="marquee-video">
-  <video>
+  <video preload="none">
     <source type="video/mp4">
   </video>
 </div>
